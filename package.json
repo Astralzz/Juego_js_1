@@ -1,0 +1,19 @@
+{
+  "name": "juego-1",
+  "version": "1.0.0",
+  "description": "mi primer juego con electron,EJCC ",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Edain by Astralz",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^6.1.12"
+  },
+  "dependencies": {
+    "@types/howler": "^2.2.7",
+    "howler": "^2.2.3",
+    "ts-to-js-converter": "^0.0.6"
+  }
+}
